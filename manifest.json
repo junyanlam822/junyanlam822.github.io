@@ -1,11 +1,11 @@
 {
-    "name": "camera_test",
-    "short_name": "camera_test",
+    "name": "example",
+    "short_name": "example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Simple Barcode Scanner Package Example",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

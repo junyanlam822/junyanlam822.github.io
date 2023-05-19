@@ -3,29 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  ".git/config": "9abed9da03b46e2b481d26fcb8e49a42",
-".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
-".git/FETCH_HEAD": "d41d8cd98f00b204e9800998ecf8427e",
-".git/HEAD": "4cf2d64e44205fe628ddd534e1151b58",
-".git/hooks/applypatch-msg.sample": "ce562e08d8098926a3862fc6e7905199",
-".git/hooks/commit-msg.sample": "579a3c1e12a1e74a98169175fb913012",
-".git/hooks/fsmonitor-watchman.sample": "ea587b0fae70333bce92257152996e70",
-".git/hooks/post-update.sample": "2b7ea5cee3c49ff53d41e00785eb974c",
-".git/hooks/pre-applypatch.sample": "054f9ffb8bfe04a599751cc757226dda",
-".git/hooks/pre-commit.sample": "305eadbbcd6f6d2567e033ad12aabbc4",
-".git/hooks/pre-merge-commit.sample": "39cb268e2a85d436b9eb6f47614c3cbc",
-".git/hooks/pre-push.sample": "2c642152299a94e05ea26eae11993b13",
-".git/hooks/pre-rebase.sample": "56e45f2bcbc8226d2b4200f7c46371bf",
-".git/hooks/pre-receive.sample": "2ad18ec82c20af7b5926ed9cea6aeedd",
-".git/hooks/prepare-commit-msg.sample": "2b5c047bdb474555e1787db32b2d2fc5",
-".git/hooks/push-to-checkout.sample": "c7ab00c7784efeadad3ae9b228d4b4db",
-".git/hooks/update.sample": "647ae13c682f7827c22f5fc08a03674e",
-".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "d70a31ca24b1a6c3a6f3d35188eba321",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "6f79a83cdd6c566b95a0813af3592825",
+"assets/NOTICES": "eecf4d944efca8b44a5492703a5b0865",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/simple_barcode_scanner/assets/barcode.html": "7a1c45aca573208e15c71b378fdbe027",
+"assets/packages/simple_barcode_scanner/assets/html5-qrcode.min.js": "246fdcae30adba42ecd5d593d7fbbede",
 "assets/shaders/ink_sparkle.frag": "6333b551ea27fd9d8e1271e92def26a9",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
@@ -37,11 +21,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2863c0fe65b2b32e705b45277f1bc414",
-"/": "2863c0fe65b2b32e705b45277f1bc414",
-"main.dart.js": "ccf0dbf6b44968007bb012bb94cf1ffb",
-"manifest.json": "50c1b3be0333b22f34a7cc4b55ef9654",
-"version.json": "376bfca8c386b02a390f9cb5fd6b9e83"
+"index.html": "3514feb93074995b3343e3c4222bfc48",
+"/": "3514feb93074995b3343e3c4222bfc48",
+"main.dart.js": "f5d745194603da95a542ae4cf43ad6d7",
+"manifest.json": "d49cfe8dacbc3ea529ec8620fc638e78",
+"version.json": "ff966ab969ba381b900e61629bfb9789"
 };
 
 // The application shell files that are downloaded before a service worker can
